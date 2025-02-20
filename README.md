@@ -11,21 +11,10 @@ This project focuses on analyzing sales data to uncover insights that can help i
 - Visualize key metrics using charts and graphs.
 - Use statistical analysis.
 
-## Dataset
+## Dataset source: Kaggle
 
-The dataset consists of sales transactions recorded over a period of time. The key features include:
-
-unnamed:0
-order_id	
-product	
-quantity	
-price_each	
-order_date	
-purchase_address	
-month	
-sales_amount	
-city	
-hour
+The dataset consists of sales transactions recorded over a period of time. The key features include:unnamed:0,order_id	,product	,quantity	,price_each	,order_date	,purchase_address	,month	,sales_amount	,city	, 
+ ,hour
 
 ## Tools & Technologies
 
